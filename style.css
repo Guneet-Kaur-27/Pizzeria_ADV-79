@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+  }
+  button
+  {
+      margin-top: 20px; 
+      margin-bottom: 20px; 
+  }
+  img{
+    height:50%;
+  width:50%;
+  horizomtal alignment:center;
+  
+  }
+  
+  
+  #menu_list_items
+  {
+      font-weight: 1000;
+      font-size: 25px;
+  }
+  
+  
